@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {//isso é o suficiente pra realizar testes
+    "rootDir": "src",                              
+    "baseUrl": "src",                                 
+    "paths": {
+      "@/*":["*"]
+    },                                      
+  }
+}
